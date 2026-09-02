@@ -5,8 +5,10 @@ Sursă: `MO-711bis-partea-I.pdf` — **68 pagini**, born-digital, 2 coloane. Dec
 | Componentă | Stare |
 |---|---|
 | Text integral ancorat (`corpus/anexe-ord-975-formulare.md`) | ✅ complet |
-| Index anexe/formulare (INDEX.md) | ✅ (nivel anexă) |
+| Index anexe (INDEX.md) | ✅ |
+| **Index per-formular** (`MANIFEST.md`, cod `F_*` → pagini → tip) | ✅ **deep pass** |
+| Verificare pe randare (formular reprezentativ F_CU_01, p.3) | ✅ |
 | CONSTATARI.md / TEST-ACURATETE.md | ✅ |
 
-**Risc rezidual:** formularele sunt 2D — textul brut dă câmpurile în ordine, dar pentru **layout
-exact** (poziții, casete) randează pagina. Indexul per-formular (fiecare cod F_*) se poate detalia.
+**Risc rezidual:** doar F_CU_01 verificat vizual integral; celelalte ~40 de formulare sunt indexate
+(cod/pagini/tip) dar neverificate câmp-cu-câmp pe randare — randează la nevoie pentru layout exact.

@@ -22,3 +22,6 @@ Formularele au **coduri** (ex. `F_CU_01 · versiunea 1.0`) — identificatori ut
 
 ## Registru tabele/figuri
 Fără tabele/figuri numerotate. Conținutul e format din **formulare (structuri 2D)**.
+
+## Index per-formular
+Vezi **`MANIFEST.md`** — index complet cod `F_*` → pagini → tip, grupat pe anexe.
